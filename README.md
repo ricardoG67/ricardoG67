@@ -10,5 +10,5 @@
 
 - 🔭 I’m a student at Esan University studying Information and Systems Engineering.
 - 🌱 I’m currently learning Javascript, Html and Css.
-- 👯 I’m looking to collaborate on any web project related in JS, in order to learn.
+- 👯 I’m looking to collaborate on any web project that involves JS, in order to learn.
 - 📫 How to reach me: ricardogabriel5101@hotmail.com
