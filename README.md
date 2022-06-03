@@ -8,9 +8,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-ricardog67-blue?style=social&logo=Instagram&link=https://www.instagram.com/ricardog67/)](https://www.instagram.com/ricardog67/) 
 [![GitHub followers](https://img.shields.io/github/followers/ricardoG67?label=Follow&style=social)](https://github.com/ricardoG67/?tab=follow)
 
+
 - 🔭 I’m a student at Esan University studying Information and Systems Engineering.
 - 🌱 I’m currently learning Javascript, Html and Css.
 - 👯 I’m looking to collaborate on any web project that involves JS, in order to learn.
+- 📚 I love to do programming exercises. Check my Codewars profile! 👉 https://www.codewars.com/users/ricardoG67
 - 📫 How to reach me: ricardogabriel5101@hotmail.com
 
 <hr>
