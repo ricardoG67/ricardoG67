@@ -3,6 +3,7 @@
 
 ### Hi, I'm Ricardo 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoG67&theme=radical&show_icons=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20De%20la%20Cruz-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ricardogabrieldelacruz/)](https://www.linkedin.com/in/ricardogabrieldelacruz/) 
 [![Instagram Badge](https://img.shields.io/badge/-ricardog67-blue?style=social&logo=Instagram&link=https://www.instagram.com/ricardog67/)](https://www.instagram.com/ricardog67/) 
