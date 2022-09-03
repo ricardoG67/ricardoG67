@@ -3,7 +3,6 @@
 
 ### Hi, I'm Ricardo 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoG67&theme=radical&show_icons=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20De%20la%20Cruz-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ricardogabrieldelacruz/)](https://www.linkedin.com/in/ricardogabrieldelacruz/) 
 [![Instagram Badge](https://img.shields.io/badge/-ricardog67-blue?style=social&logo=Instagram&link=https://www.instagram.com/ricardog67/)](https://www.instagram.com/ricardog67/) 
@@ -15,6 +14,8 @@
 - 👯 I’m looking to collaborate on any web project that involves JS, in order to learn.
 - 📚 I love to do programming exercises. Check my Codewars profile! 👉 https://www.codewars.com/users/ricardoG67
 - 📫 How to reach me: ricardogabriel5101@hotmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoG67&theme=radical&show_icons=true)
 
 <hr>
 
