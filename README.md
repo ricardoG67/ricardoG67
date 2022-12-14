@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning Javascript, Html and Css.
 - 👯 I’m looking to collaborate on any web project that involves JS, in order to learn.
 - 📚 I love to do programming exercises. Check my Codewars profile! 👉 https://www.codewars.com/users/ricardoG67
-- 📫 How to reach me: ricardogabriel5101@hotmail.com
+- 📫 How to reach me: ricardogabriel5101@gmail.com
+- 💼 My linkedin: https://www.linkedin.com/in/ricardogabrieldelacruz/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoG67&theme=radical&show_icons=true)
 
