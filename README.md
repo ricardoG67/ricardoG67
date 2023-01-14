@@ -16,7 +16,7 @@
 - 📫 How to reach me: ricardogabriel5101@gmail.com
 - 💼 My linkedin: https://www.linkedin.com/in/ricardogabrieldelacruz/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoG67&theme=radical&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoG67&theme=radical&show_icons=true)-->
 
 <hr>
 
